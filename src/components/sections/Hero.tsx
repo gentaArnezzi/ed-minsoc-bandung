@@ -39,7 +39,7 @@ export function Hero() {
                         animate={{ opacity: 1, y: 0 }}
                         transition={{ duration: 0.8, ease: "easeOut" }}
                     >
-                        <h1 className="text-5xl md:text-7xl font-bold font-display tracking-tight text-white mb-6 drop-shadow-sm">
+                        <h1 className="text-4xl md:text-7xl font-bold font-display tracking-tight text-white mb-6 drop-shadow-sm">
                             Mini Soccer Terbaik <br />
                             <span className="text-primary-accent text-primary">
                                 di Bandung Selatan

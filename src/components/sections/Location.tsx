@@ -3,7 +3,7 @@ import { MapPin, Clock, Phone } from "lucide-react";
 
 export function Location() {
     return (
-        <section id="lokasi" className="py-24 bg-white">
+        <section id="lokasi" className="py-16 md:py-24 bg-white">
             <Container>
                 <div className="flex flex-col lg:flex-row gap-16">
                     <div className="flex-1">
